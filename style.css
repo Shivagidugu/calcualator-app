@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+}
+body{
+    background-image: url(calimg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+table{
+    margin: auto;
+}
+input{
+    background-color: honeydew;
+    font-size:34px;
+    border-radius:20%;
+}
+button{
+    font-size: 40px;
+    background:rgb(228, 224, 8);
+    width:102px;
+    height:60px;
+    border-radius: 20%;
+    cursor: pointer;
+}
+.calculator{
+    background-color: #df0d0d;
+    padding: 23px;
+    border-radius: 70px;
+    display:inline-block;
+}
